@@ -1,0 +1,5 @@
+My first git project 
+i want to commit this folder 
+i want to change now 
+hello world 
+add
